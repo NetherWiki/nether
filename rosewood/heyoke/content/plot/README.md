@@ -1,0 +1,1 @@
+We want a level of abstraction somewhere in between [this article](https://avp.fandom.com/wiki/Alien_III_(Eric_Red)) and the initial treatment for The Shining.

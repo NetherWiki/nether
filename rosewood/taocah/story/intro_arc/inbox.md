@@ -1,0 +1,4 @@
+# Unsorted Notes
+- "A Chance Meeting" should probably be the end of the first episode, since each episode is usually two to three thirty minute sequences.
+He goes to Chance's house, we see how creepy Chance's relationship with his mother is, then the cliff-hanger is Chance revealing he can see the same hallucinations as Calvin.
+- When Calvin first stands looking at the lake we see "A World of Madness" appear as a title over it, when the flashback starts with Calvin going to his home and the car goes into the distance we see "Boy with Amnesia" above it, and we see a similar "A Chance Meeting" title card fade in when Calvin is going to Chance's house, or perhaps they are subscript under "TAOCAH" and as the episode continues the next one pops up like: "A World of Madness / Boy with Amnesia / A Chance Meeting" with it being completely populated by the third sub-episode.

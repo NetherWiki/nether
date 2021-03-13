@@ -1,0 +1,2 @@
+***I like the idea that Hobbes is never really shown cursing unless it's something incredibly serious, serving as a foil to Calvin's constant use of vulgar language.
+Hobbes is usually overly polite and takes over when Calvin doesn't want to deal with real-life situations.***

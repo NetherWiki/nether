@@ -1,0 +1,1 @@
+***In this scene Angela notes the odd way Calvin cuts his food and he makes that sort of cruel comment "Just like the rest of me." or something.***

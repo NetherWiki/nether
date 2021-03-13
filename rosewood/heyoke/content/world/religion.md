@@ -1,0 +1,1 @@
+***Mention that one of the major human religions is the Bahai Faith (extended of course to incorporate other prophets) and this mix of Buddhism-animal religion, Kae'Kil notes (when he admits to being an adherent) that the humans didn't invent Buddhism, they just discovered it (probably when Heyoke notices him meditating and says he meditates too).***

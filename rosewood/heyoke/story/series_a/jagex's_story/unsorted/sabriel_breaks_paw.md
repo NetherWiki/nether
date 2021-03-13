@@ -1,0 +1,1 @@
+***When Sabriel grabs his paw Jagex yells "Ouch! That fucking hurts!" and she tells him to stop being a baby before asking him to talk about something else to take his mind off it.***

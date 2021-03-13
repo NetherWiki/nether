@@ -1,0 +1,3 @@
+***We note, as a plot point, that from their point of view English is a dead language, as someone explains to Muts (or maybe it's mentioned somewhere else), it's considered entirely inappropriate to coin new words in english, instead you revert to your native language for words that don't exist and you can't substitute.***
+
+***Maybe we even mention it was a government reform in Wayland to make it an offense to coin new words, although I dunno about that, why? To prevent the words from drifting apart? It would make more sense if it's a religion that has that rule, that would make more sense, they have the taboo. It could even be a sense of humor when one of the characters (Patches) starts making up nonsense terms just to piss someone off.***

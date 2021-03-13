@@ -1,0 +1,2 @@
+***Through most of the first season we don't really see much of him, but when we do see him he's kind of an asshole, but he's funny enough that he's likable in the audience's eyes.
+He often sleeps in a different room than Angela and Calvin admits to Rosalyn when she asks if they ever bone that he thinks it's a loveless marriage.***

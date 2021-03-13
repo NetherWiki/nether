@@ -1,0 +1,1 @@
+***We see that when she's allowed to visit her family that some other rabbits try to eat the food and the guards beat them away.***

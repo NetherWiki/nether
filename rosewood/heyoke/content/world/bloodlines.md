@@ -1,0 +1,1 @@
+***When talking about blood lineage, we note that after the great ancestral race split, there were still hybrids for a time, although they couldn't reproduce, these hybrids were always regressions, and seen to hold great powers more comparable to their ancestors.***

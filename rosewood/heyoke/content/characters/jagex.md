@@ -1,0 +1,1 @@
+***That silly sword he always keeps around, 'Unlabored Flawlessness' is 'imbued', he's told that as long as he swings it he will never miss his content, leading to Serinth having to come up with inventive ways to finally kill him in her flashback arc.***

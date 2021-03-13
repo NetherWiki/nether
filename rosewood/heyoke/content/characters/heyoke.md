@@ -1,0 +1,1 @@
+***He has a reputation as a fearsome cannibal due to his preference for eating the bodies of other dead wolves in battle over the standard provided rations (made from herbivores).***

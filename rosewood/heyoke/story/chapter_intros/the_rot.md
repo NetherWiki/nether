@@ -1,0 +1,1 @@
+***In the Rot chapter intro the narrator explains that some believe that the Rot has always been around, that it caused the great split.***

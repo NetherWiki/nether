@@ -1,0 +1,3 @@
+***We may want to skip the part where Vox looks at himself in the mirror and instead jump directly to the room with Wrex.***
+
+***Also, when Wrex tells his story about Marathon, we don't need to actually show what he says, we just need to show Frux's perspective as he tells it "He told a story about Marathon" she notes how this story has been recycled again and again and got more grandiose each time, her reaction of disgust that the proles just eat it up, enamored like children.***

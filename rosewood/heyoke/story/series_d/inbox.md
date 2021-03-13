@@ -1,0 +1,4 @@
+# Unsorted Scenes
+- When Bambi first tells Patches that the cub she is carrying is the messiah he ridicules her "Lion Jesus... You're telling me you're carrying (pregnant with?) Lion Jesus?" to which she coolly replies "Yes."
+- At one point Patches asks if her son is going to save the world, Bambi replies that she doesn't think so 'but he might save us.'
+- So one issue with Zarkhan these days is there isn't any water, but as Bambi runs to Apocalypse Land she finds herself running over a patch of desert that has a thin layer of water on it, reflecting the sky like a perfect mirror as if she's just running on air. ("Skyland?")

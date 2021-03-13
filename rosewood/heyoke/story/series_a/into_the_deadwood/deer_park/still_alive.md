@@ -1,0 +1,1 @@
+***When Ryzon pulls the log off of her she's just staring up at the sky blankly and says "All according to plan." mimicking something she said to  Heyoke initially when he asks if it's started and she says yes, all according to plan.***

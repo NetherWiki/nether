@@ -1,0 +1,2 @@
+***As we see at least in season one (and especially whenever he talks to someone for the first time in school) he has almost pathological social anxiety and can barely maintain eye contact with strangers.
+He prefers to mediate his interactions through Hobbes.***

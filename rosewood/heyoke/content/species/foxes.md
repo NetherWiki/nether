@@ -1,0 +1,2 @@
+***Foxes have a reputation for being pedantic and deceptive.
+This is partially because of the nature of their native language, Foxlish, with depends on puns and double-entardes for basic communication. Thus they have a reputation for never saying what they mean.***
