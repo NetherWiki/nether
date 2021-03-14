@@ -1,5 +1,9 @@
+---
+header: Skyshale
+---
+
 Skyshale was an American cult leader, [psychonaut](https://en.wikipedia.org/wiki/Psychonautics), and self-professed [arhat](https://en.wikipedia.org/wiki/Arhat).
-She is most well-known for establishing the [new religious movement](https://en.wikipedia.org/wiki/New_religious_movement) of Prototheism and for her expansive collection of written works, almost of all of which were codified in the hundreds of hand-written journals she kept until her death.
+She is most well-known for establishing the [new religious movement](https://en.wikipedia.org/wiki/New_religious_movement) known as Prototheism and for her expansive collection of written works, almost of all of which were codified in the hundreds of hand-written journals she kept until her death.
 
 Skyshale's research notes concern the study and manipulation of altered forms of consciousness.
 Using a combination of intense meditation and psychoactive drug use, Skyshale claims to have developed a procedure for achieving classical Buddhist enlightenment.
