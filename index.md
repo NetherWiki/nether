@@ -4,7 +4,8 @@ header: Fox's NetherWiki Development Branch
 
 This is Fox's personal development branch.
 You are probably here because he linked you to a particular page for feedback.
-Everything below is just of way for me to test formatting.
+Really this is just a place I throw notes that I haven't integrated anywhere else, the story content will eventually be slowly migrated to feature branches before being merged with master.
+Everything below this paragraph is just text formatting tests.
 
 # Formatting Test
 [spoilers]
@@ -30,6 +31,14 @@ Dolor ipsum yadda yadda I'm gay. Dolor ipsum yadda yadda I'm gay. Dolor ipsum ya
 
 Dolor ipsum yadda yadda I'm gay. Dolor ipsum yadda yadda I'm gay. 
 [/commentary]
+
+[todo]
+Test of todo todo todo.
+Blah.
+
+
+Blah blah blah?
+[/todo]
 
 > *Rosie:* Hello I am a big gay. 
 Do you like to big gay? 
