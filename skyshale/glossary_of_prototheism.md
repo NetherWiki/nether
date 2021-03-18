@@ -66,6 +66,44 @@ In Prototheism interrupt phrases are certain words or sentences that when spoken
 Examples of these 'context switches' include forcing participants to be absolutely honest, forcing the participants to keep the conversation in absolute secrecy, or more casual uses such a demanding participant's attention or drafting a Prototheist contract.
 Interrupt phrases are backed by geas and breaking them is therefore taboo, resulting in a forfeiture of rapport.
 
+# Mental Catalysts
+In Prototheism a catalyst is a drug used to induce or prolong a particular state of consciousness.
+In its broadest meaning a catalyst can refer to any psychoactive compound including commonly used drugs like caffeine or amphetamine.
+However the term is almost always used in the context of specific mixtures of psychedelic substances that were developed by Skyshale as part of her research.
+
+These compounds are used as 'mental seteriods' to speed development of psychonautic training.
+A classic example is vipassanā meditation, which usually takes many years of dedicated practice to master.
+Even though the goal of vipassanā is to increase introspective awareness, introspective awareness is needed to determine if subtle changes in technique are improving or hindering practice, leading to a chicken and egg problem and much frustration for beginners.
+Catalysts alleviate this by temporarily boosting introspective awareness, allowing the mediator to better understand how they need to alter their technique to make progress.
+
+Mental catalysts can push vipassanā mediators years forward in their practice, but are meant to be taken sparingly and not as substitutes for sober training.
+
+# Nimp
+[todo]
+We specifically mention vipassanā and increasing introspective awareness until a fruition occurs but we also want to get examples of other kinds of ego death (drug induced, merging with a kasiṇa entity, etc.) and contrast drug induced ego death with meditation-induced (the latter which Prototheists always prefer as the former only provides largely transient insight).
+[/todo]
+
+Nimp, also referred to as 'ego death', 'fruition', 'nirvana', or an 'insight experience' refers to an altered state of consciousness where a person temporarily loses their subjective self-identity.
+It is the ultimate end-point of a successful vipassanā cycle and can also be induced through common psychedelic drugs such as LSD.
+
+# Rapport
+[todo]
+Vanilla actually quantified rapport as a cryptocurrency (with geas also quantified as smart contracts on the blockchain).
+This drew criticism from CDF and its splinter factions, as Skyshale never mentioned monetizing rapport in this way.
+Vanilla's rapport tokens are a combination of z-cash / ether / web of trust, and the latter prevents people from simply buying rapport using flat currency.
+[/todo]
+
+Rapport is an abstract concept referring to units of social confidence traded not unlike a currency in Prototheists circles.
+Rapport is a measure of a Prototheists' reputation or social standing.
+Some collectives, notably Vanilla, have quantified rapport in the form of cryptocurrency tokens.
+For most Prototheists however, rapport is an informal, albeit important part of their identity.
+
+Rapport is gained by contributing to High Charity, that is, reducing human suffering.
+Gaining rapport makes it easier to collaborate with other Prototheists who also have high rapport, and in that way confers power and prestige in one's Prototheist collective.
+For example, Vanilla only accepts associates as full members after a specific amount of rapport has been gained, encouraging associates to compete with one another over participation in projects that provide a wide-spread social good.
+
+The concept is not without criticism however, with some likening the system to a popularity contest.
+
 # Root Delusion
 [todo]
 We describe the root delusion in somewhat mystical terms, stating that Prototheists believe it 'binds' beings to this place of existence (similar to language in Buddhism regarding clinging to self).
@@ -89,3 +127,17 @@ This belief in separation between self and not-self seems intuitive ("My feet ar
 But Prototheists believe this point of view is ultimately delusional.
 And that this delusion is the root cause of all human suffering.
 
+# Vipassanā
+[todo]
+Do we really want to keep this unicode in the title?
+
+Perhaps mention that even though the jhanas were known at the time of the Buddha, the discovery of vipassanā was his real contribution.
+[/todo]
+
+Vipassanā is a form of meditation popularized in Buddhism and used to achieve insight into ultimate reality via the cultivation of altered states of consciousness.
+In a nutshell, it is the meditation Buddhists perform to become enlightened.
+
+Vipassanā isn't a specific technique, but rather a methodology for breaking up reality into discrete units Prototheists refer to as frames.
+Prototheists see vipassanā and samatha as a spectrum, with modern techniques such as the Zebulon Protocol incorporating a mixture of both aspects with the addition of optional catalysts.
+
+(Not practiced directly by Prototheists, mostly practice with catalysts)
