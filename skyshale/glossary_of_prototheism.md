@@ -32,14 +32,17 @@ They serve as the basis of interrupt phrases as well as the contracts that make 
 # High Charity
 [todo]
 In the rewrite let's go back to the Wikipedia page on 'honor' and rip off some of the descriptions there.
+
+Let's go over some of the ambigious Buddhist terms on Wikipedia and rip off how they articles describe the ambiguity.
 [/todo]
 
-In Prototheism High Charity is a multi-faceted concept that remains someone ambiguous with different interpretations among the major Prototheist factions.
+In Prototheism High Charity is a multi-faceted concept that remains somewhat ambiguous with different interpretations among the major Prototheist factions.
 Roughly, it refers to a hypothetical world without suffering as well as the work Prototheists do to reach that point.
-It is a major tenet of Prototheism, although the concept is abstract and not meant to be taken literally.
+It is a major tenet of Prototheism as well as its ultimate goal, although the concept is abstract and not meant to be taken literally.
 It is frequently referenced in the context of 'rapport'.
 
 All Prototheists are expected to contribute to High Charity in some way and gain rapport by forming or joining projects that maximize reduction in human suffering.
+However contributing to one's own happiness is also considered valid High Charity.
 
 # Inherent Bias
 [todo]
@@ -126,6 +129,23 @@ It is sometimes succinctly described as the belief that life is preferable to de
 This belief in separation between self and not-self seems intuitive ("My feet are me, my shoes are not me.")
 But Prototheists believe this point of view is ultimately delusional.
 And that this delusion is the root cause of all human suffering.
+
+# Zebulon Protocol
+[todo]
+The name is a lot worse that I thought it would be, we need to come up with a better one.
+
+We will eventually move this to its own page, which has a revision history section, including Skyshale introducing a second revision to counter the psycho­tic breaks people were having.
+Under "development model" we have a criticism sub-heading where we state that although scientific studies are required to be taken seriously, Vanilla's child corporation (which does free-lance scientific research on my subject and are supposedly unbiased with quality comparable to the RAND corporation and congressional research reports, and are therefore supposedly unbiased although as we mention on their page some people question their loyalty to Vanilla) does most of the research and charges money for it.
+Vanilla are the ones who usually give grants to pay for proposals to be formally studied, so in this way they can pick and choose proposals more than other groups, leading to criticism.
+[/todo]
+
+The Zebulon Protocol is a technique developed by Skyshale as an attempt to isolate a methodology for achieving classic Buddhist enlightenment and to do so as quickly and safely as possible.
+The protocol was developed with the ultimate goal of teaching it to as many people as possible.
+It is so named because the first working commite to formalize Skyshale's research on the subject was hosted in Zebulon, North Carolina.
+It has gone through four major revisions, three under Skyshale's leadership and one posthumously.
+It was to be standardized a fifth time but the working committee was cancelled due to COVID-19 pandemic.
+Unlike other meditation techniques, the Zebulon Protocol is developed by a working group, in much the same way the IEEE accepts and votes on proposals for standards.
+Contributors are expected to back their proposed amendments through scientific studies. 
 
 # Vipassanā
 [todo]

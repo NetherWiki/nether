@@ -1,4 +1,8 @@
 # Characters
+## Kenrick Valler
+This guy is a half-black half-mexican student journalist who wanted to interview Skyshale and got wrapped up in her weird world like so many others.
+He later started CDF and the reason CDF is so into hacking culture is because Skyshale got him into hacking as a hobby, and then he joined up with the Cult of Dead Cow, which is why he named his collective the Cult of the Dead Fox after Skyshale died (her fursona was a fox).
+
 ## Skyshale
 ### Suicide
 I like the idea that she died through self-immolation, similar to [Thích Quảng Đức](https://en.wikipedia.org/wiki/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c), who she was obsessed with.
