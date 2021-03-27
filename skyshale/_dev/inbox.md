@@ -1,7 +1,13 @@
+# Books
+## The Standard Framework
+Skyshale uses the term 'self-assembling' to describe the way splinter Prototheist groups grow and merge back together.
+
 # Characters
 ## Kenrick Valler
-This guy is a half-black half-mexican student journalist who wanted to interview Skyshale and got wrapped up in her weird world like so many others.
+This guy is a half-black half-Mexican student journalist who wanted to interview Skyshale and got wrapped up in her weird world like so many others.
 He later started CDF and the reason CDF is so into hacking culture is because Skyshale got him into hacking as a hobby, and then he joined up with the Cult of Dead Cow, which is why he named his collective the Cult of the Dead Fox after Skyshale died (her fursona was a fox).
+
+Perhaps he's the one who originally dumped the docs to /x/ to prevent Vanilla from controlling access to them.
 
 ## Skyshale
 ### Suicide

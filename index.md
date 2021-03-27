@@ -10,7 +10,7 @@ It's an idea that has been tumbling around head for the last half-decade or so.
 I don't have much to say myself.
 I've never been personally very creative.
 But I have always been fascinated by the fringe.
-Over the years I've learned about a lot of bizarre, unexplainable or just generally esoteric event and objects and people.
+Over the years I've learned about a lot of bizarre, unexplained or esoteric events, objects and people.
 I guess it's sort of my hobby.
 
 So I hope you enjoy this site.

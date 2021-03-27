@@ -33,7 +33,7 @@ They serve as the basis of interrupt phrases as well as the contracts that make 
 [todo]
 In the rewrite let's go back to the Wikipedia page on 'honor' and rip off some of the descriptions there.
 
-Let's go over some of the ambigious Buddhist terms on Wikipedia and rip off how they articles describe the ambiguity.
+Let's go over some of the ambiguous Buddhist terms on Wikipedia and rip off how they articles describe the ambiguity.
 [/todo]
 
 In Prototheism High Charity is a multi-faceted concept that remains somewhat ambiguous with different interpretations among the major Prototheist factions.
@@ -74,7 +74,7 @@ In Prototheism a catalyst is a drug used to induce or prolong a particular state
 In its broadest meaning a catalyst can refer to any psychoactive compound including commonly used drugs like caffeine or amphetamine.
 However the term is almost always used in the context of specific mixtures of psychedelic substances that were developed by Skyshale as part of her research.
 
-These compounds are used as 'mental seteriods' to speed development of psychonautic training.
+These compounds are used as 'mental steroids' to speed development of psychonautic training.
 A classic example is vipassanā meditation, which usually takes many years of dedicated practice to master.
 Even though the goal of vipassanā is to increase introspective awareness, introspective awareness is needed to determine if subtle changes in technique are improving or hindering practice, leading to a chicken and egg problem and much frustration for beginners.
 Catalysts alleviate this by temporarily boosting introspective awareness, allowing the mediator to better understand how they need to alter their technique to make progress.
@@ -110,7 +110,7 @@ The concept is not without criticism however, with some likening the system to a
 # Root Delusion
 [todo]
 We describe the root delusion in somewhat mystical terms, stating that Prototheists believe it 'binds' beings to this place of existence (similar to language in Buddhism regarding clinging to self).
-However we note that even though Buddhism is also a religion dedicated to penetration the delusionary nature of self, it succeeds only partially.
+However we note that even though Buddhism is also a religion dedicated to penetration the delusional nature of self, it succeeds only partially.
 To fully remove the root delusion, as Skyshale did, is to walk a path that inevitably leads to self-destruction.
 
 We note that Prototheists believe the root delusion (self) is the root of all suffering.
@@ -134,16 +134,16 @@ And that this delusion is the root cause of all human suffering.
 [todo]
 The name is a lot worse that I thought it would be, we need to come up with a better one.
 
-We will eventually move this to its own page, which has a revision history section, including Skyshale introducing a second revision to counter the psycho­tic breaks people were having.
+We will eventually move this to its own page, which has a revision history section, including Skyshale introducing a second revision to counter the psychotic breaks people were having.
 Under "development model" we have a criticism sub-heading where we state that although scientific studies are required to be taken seriously, Vanilla's child corporation (which does free-lance scientific research on my subject and are supposedly unbiased with quality comparable to the RAND corporation and congressional research reports, and are therefore supposedly unbiased although as we mention on their page some people question their loyalty to Vanilla) does most of the research and charges money for it.
 Vanilla are the ones who usually give grants to pay for proposals to be formally studied, so in this way they can pick and choose proposals more than other groups, leading to criticism.
 [/todo]
 
 The Zebulon Protocol is a technique developed by Skyshale as an attempt to isolate a methodology for achieving classic Buddhist enlightenment and to do so as quickly and safely as possible.
 The protocol was developed with the ultimate goal of teaching it to as many people as possible.
-It is so named because the first working commite to formalize Skyshale's research on the subject was hosted in Zebulon, North Carolina.
+It is so named because the first working committee to formalize Skyshale's research on the subject was hosted in Zebulon, North Carolina.
 It has gone through four major revisions, three under Skyshale's leadership and one posthumously.
-It was to be standardized a fifth time but the working committee was cancelled due to COVID-19 pandemic.
+It was to be standardized a fifth time but the working committee was canceled due to COVID-19 pandemic.
 Unlike other meditation techniques, the Zebulon Protocol is developed by a working group, in much the same way the IEEE accepts and votes on proposals for standards.
 Contributors are expected to back their proposed amendments through scientific studies. 
 
