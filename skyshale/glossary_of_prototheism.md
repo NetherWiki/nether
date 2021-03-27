@@ -1,6 +1,16 @@
 This **glossary of Prototheist terms** is a list of definitions about the major concepts of Prototheism.
 
 # Black Notebook
+[todo]
+Attempts have been made to read only a portion of this notebook, or to analyze it with machine learning and semantic analysis software, to mixed success.
+One does not have to actually practice a tek to become suicidal, Skyshale is so convincing that merely reading and understanding her argument is enough to lead one inevitably (although not necessarily immediately) to suicide.
+In Skyshale's suicide note (which are the first two pages of the notebook and publicly available) she dedicated the notebook to Kenrick, telling him that it is up to him if he wants to burn it but also warning him that with the advent of the internet it is no exaggeration to consider the notebook to be one of the most dangerous objects in the universe.
+If it leaks it will become a blight on humanity of biblical proportions, the doom of the human race if the wrong people distribute it.
+Currently it is housed by Vanilla, where only the top-tier members are allowed to access it with the understanding that it is a one-way trip.
+Due to a lawsuit and associated discovery process Vanilla now claims to have destroyed it, but there reports to the contrary (look into how the public learned about the weirder Scientology beliefs through a court case).
+It is widely speculated that both CDF and Nouveau retain copies.
+[/todo]
+
 The black notebook is the infamous final journal Skyshale developed before her death.
 
 # Cognitive Distortions
