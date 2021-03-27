@@ -144,4 +144,5 @@ We expand this section with examples of Prototheist counter-claims to the utilit
 The reason we don't enslave people if it reduces suffering is because we still share the suffering of those enslaved people and a society with such flagrant human rights violations would not be practical or sustainable.
 The reason we don't kill people if we know we can get away with it is for the same reasons and because informed consent is necessary for a functional society.
 [/todo]
+
 Prototheist's doctrine of High Charity is often unfavorably compared to utilitarianism and is subject to many of the same criticisms.
