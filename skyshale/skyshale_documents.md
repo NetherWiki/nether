@@ -2,12 +2,17 @@
 In the rewrite let's further split the contents between this page and Skyshale's page (maybe renaming "Skyshale" to "Skyshale (Person)").
 This page will deal with the contents of her writing and the influence it had on Prototheism and the web as a whole after it got leaked to /x/.
 The history section of this page is minimal and links to Skyshale's page where we have a lot more of her history.
+
+At the beginning we mention what seems like her increasing mental instability which is reflected in her writings, some think they're nothing more than the deranged ramblings of a narcissistic sociopath, and even hardcore Prototheists have trouble reconciling her more outrageous claims at the end, she seems to have lost her mind.
+
+We reference in this first section that these documents are widely seen as the original authority on Prototheist canon and viewed by some as scripture.
 [/todo]
 
 The Skyshale Documents are a collection of journals, essays, fiction, and research notes that Skyshale developed her lifetime.
 Many of these documents are available to read online and server as the basis for the quickly growing new religious movement known as Prototheism.
 
 # History
+## Early Years
 [todo]
 As stated before, most of this todo will be moved out in the rewrite.
 
@@ -100,3 +105,55 @@ Maybe the burning monk was on the ink blotter she got and it was ominous, she wo
 [/todo]
 
 She began working on a collection of documents that would form The Mantle, developing an ideological basis to explain her conception of reality.
+As a way of refining her understanding of suffering, Sky shale began experimenting with small self-inflicted injuries.
+
+[todo]
+We have a quote something like: "I wanted to experience pain without the danger.
+I knew girls who cut themselves and I always found it pathetic.
+Sad but pathetic.
+You won't gain anything but attention from self-injury and if I wanted attention I would ask for it.
+I wasn't doing it to hurt myself, I was doing it to know the difference between pain and suffering."
+
+We want the quote to have somewhat sociopathic undertones.
+In this quote we also want to show how intellectually fascinated she is by these insect stings, as it's all an illusion, no real damage is done.
+She makes direct references to frame theory here.
+
+The below bit certainly goes in Skyshale's biography page and not here, and it probably makes more sense for it to be a college presentation.
+She never went back after being kicked out, and we can mention in developer commentary that we would love to eventually make this film as a short.
+[/todo]
+
+Skyshale was suspended from high school after releasing a student project where she documented purposefully getting addicted to heroin and then breaking the addiction, having interviews with other junkies.
+Skyshale never returned to school, living at her grandmother's house under her death and legally taking control of the property at the age of 18.
+
+[todo]
+I'm sure we can work in some drama with Skyshale, her mom, and her grandmother, as the grandmother left everything to Skyshale.
+We might also want to work in a social worker, a social worker's notes on Skyshale would be interesting, but perhaps unrealistic as it would be a break of confidentiality.
+
+If she had herself legally emancipated, perhaps she didn't wait until she was 18 to take control of the property.
+[/todo]
+
+## The Hillsborough House
+[todo]
+We reduce the previous section and open this section with Kenrick meeting Skyshale after an argument on Dharma Overground regarding some of her claims, we quote him as talking about how infuriated he was with her and him eventually driving to her house to give her a piece of his mind.
+(Although this conflicts with Kenrick's background as a student-reporter.)
+When he goes in he sees she's just completely naked on the couch as she writes in her journal and thinks she's lost her mind, but they have a conversation and they keep talking over night, he keeps trying to trip her up as she justifies what would become Prototheism, speaking with the mesmerizing conviction of a sage or psychotic.
+
+Or we could make this a completely different person, her first disciple, but not that important to the story.
+This guy visits her over and over again until eventually moving in and telling his friends.
+
+In this section we also want a separate quote from someone that summarizes the situation, perhaps someone who says they used to be in the army but they were terrified by this 19 year old naked woman, not because she was cruel, she was never cruel, but because she was indifferent, and seemed to grow more indifferent day by day.
+
+This person doesn't really know how she survived, the house was paid off but she didn't have a job.
+She ate a lot of beans out of cans and at first they thought it was because she was trying to eliminate craving but then they realized she was just poor.
+
+Sometimes the cops would come with a noise complaint, although this person can't recall the house ever being really noisy, mostly the cops just came to make sure she was okay.
+People saw her as a burnt out high school junkie who didn't have a job and whored herself to men, they took pity on her, but they didn't know her like they knew her.
+As this person explains she didn't have sex with anyone but her long-term relationships, none of them would have touched her anyway, they weren't worthy, it would have been sacrilege.
+
+(Also in the same quote): From time to time a woman would show up, claim to be her mother.
+They would go to a private room to talk, sometimes fight.
+I never heard SKyshale raise her voice outside of those meetings, I didn't even recognize the voice as hers at first.
+Later I heard the grandmother left everything to Skyshale and nothing to her daughter.
+The only time I saw Skyshale cry was after her mother's death.
+(And perhaps it is the tears from her mother's death that convinces Skyshale she hasn't yet completely thrown off suffering, leading her down a dark path of obsession that eventually leads to her downfall.)
+[/todo]
