@@ -11,6 +11,15 @@ Perhaps he's the one who originally dumped the docs to /x/ to prevent Vanilla fr
 
 ## Tsukitei Endo
 Endo is the deadname of the transgender CEO of Vanilla Corporation.
+She was a Japanese salaryman who hated his job and his family.
+She met Skyshale online, realized she was transgender, and left her wife and kids to move to America and marry Skyshale and live her life as a woman, even though she barely spoke English.
+She became one of Skyshale's most devoted disciples.
+
+We may include this as a quote: A lot of people outside of Vanilla believe she gained her role as CEO of Vanilla because she founded it, or for some SJW reasoning regarding her being transgender.
+This is incorrect.
+She's had many wannabe usurpers over the years and she's always faced them down.
+She's CEO because she's smart and ruthless.
+She takes no income.
 
 ## Skyshale
 We want to imply a narrative that although she claims her life's work is about eliminating craving and aversion, she was an addict before she got into meditation and perhaps she's just trading one addiction for another.

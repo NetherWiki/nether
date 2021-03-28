@@ -12,6 +12,11 @@ It's why I can only write on my phone or long-hand.
 Having access to the backspace button is just too tempting, it kills my workflow.
 [/commentary]
 
+[commentary]
+I find by default I usually write stories about men doing things, with female characters as an afterthought.
+I would to reverse that with this story, where it's mostly women who are the main characters and men are an aside.
+[/commentary]
+
 [todo]
 There are three main concepts we want to sell in this initial splash section:
 
