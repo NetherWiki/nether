@@ -1,89 +1,129 @@
 [todo]
-We import some stuff from the original pilot article, noting that some variously see it as a secret society or shadow government or new world order or just another new hokey religion.
-
-We can rip off the structure of the Wikipedia article on Buddhism (and other religions) for inspiration on how to structure this page, specifically how much of the Pāli Canon does Wikipedia reference in the main article on Buddhism?
-
-In the splash section we mention that "Prototheism" is a registered trademark of the Vanilla Corporation.
+Early on in the relationship to Buddhism section (or even the splash) we mention that Prototheism expands upon Buddhism, or is seen to, chasing more than just enlightenment.
+In the relationship section we can specifically mention the idea of more enlightened than enlightened.
 [/todo]
 
-Prototheism is a system of belief that is sometimes described as a religion or secular offshoot of Buddhism.
-It is a rationalistic, atheistic, decentralized organization that seeks to use spiritual insight and scientific inquiry to reduce the global suffering of the human race, a concept referred to as High Charity.
-Prototheism is based off the writings of Jordan Bishop, otherwise known as Skyshale.
-The first Prototheist collective, Vanilla, formed shortly after her death.
+[info]
+Prototheism is a diverse ideology and associated system of belief and practices.
+For the purpose of this article it will be referred to as a new religious movement.
+However it is important to note that some Prototheist organizations reject this label, viewing themselves as entirely secular institutions.
+[/info]
 
-# Beliefs and Bylaws
+Prototheism is an atheistic, rationalistic, decentralized religion based on the collective works of Azar Kianizadeh (popularly known as Skyshale).
+Its adherents, known as Prototheists, believe that suffering in all its forms is the byproduct of delusional modes of thinking.
+They apply rational inquiry and effective altruism to gain insight and reduce suffering for the human race and all sentient beings, a concept known as High Charity.
+
+Prototheists believe enlightenment is a real and desirable state which can be studied empirically and induced through through the cultivation of non-dual insight.
+Building upon Skyshale's research into ego-dissolution, known as Frame Theory, Prototheists combine modern meditative techniques with psychoactive catalysts in order to enter and explore non-ordinary states of consciousness.
+Through the development of metacognitive awareness in these altered states Prototheists learn to recognize and correct various non-conceptual biases and systemic distortions inherent in human perception, such as the belief in an enduring independent self.
+
+Prototheism was developed through Skyshale's various notebook entries, specifically her two incomplete manuscripts: The Mantle and The Standard Framework.
+The first formal Prototheist collective was formed shortly after her death.
+Prototheism gained mainstream attention after Skyshale's notebooks were leaked to 4chan's /x/ board.
+Prototheism now enjoys a healthily growing following.
+Prominent collectives like Vanilla have attracted criticism for their wealth and influence.
+As a new rapidly growing religion Prototheism is associated with many conspiracy theories, such as it being a front for a New World Order.
+
+# Worldview
 [todo]
-Starts with Skyshale quote: "It's like Buddhism, but with drugs."
-
-These sections should probably go under subheadings, possibly with a reference to 'core tenets'.
-Maybe split this with general doctrines up top and High Charity down below and the associated meditation techniques and drug use to realize non-conceptual insight at the bottom.
-
-The part about the doctrine being developed to be practical might be better placed under the history section.
-
-Perhaps we formalize the questioning of the doctrine as a sort of ritual, or at least something people do in organizations like CDF, submitting papers or responding to mailing lists in an attempt to poke holes in, and therefore improve, Prototheist doctrine.
-It is, after all, developed through committee.
-
-One of the subheadings specifically goes into scientific reductionism and the Prototheist belief that there is no true free will.
-
-We also mention in one of the subheading that Prototheists are moral relativists (although we mention at the top of this section that these are just shared beliefs and do not necessarily reflect all Prototheists, as the actual doctrine is quite small, at the bottom of this section we include results from a poll of beliefs at a recent Prototheist conference) and therefore feel free to ignore laws they disagree with, which generates criticism.
-
-We mention being practical is one of the real core beliefs but we also mention at the top that much of the listed beliefs are convention and different between different sects, as The Standard Framework reads more software documentation that a religious text.
-
-One of the subheadings can be about the Prototheist concept of self, which we mention is somewhat influenced by Buddhism and we also reference the role of non-conceptual wisdom which we elaborate on in a below section, this gives rise to Prototheist belief in the golden rule, but the reason they due on to others as they would like done to themselves is because they believe empathy should expand to all sentient beings.
-
-If moral relativism (which we note doesn't mean they are amoral) is a subheading then we note they don't really believe in morality except as 'practical' to reduce suffering.
-Assisted suicide is okay.
-Heroin use is okay.
-Communism is okay.
-Everything is okay as long as it is practiced in a skillful and practical way.
-We also mention that even the belief to reduce suffering is seen as arbitrary, but one that everyone wants, and we make reference to the root delusion and the black notebook and possibly Skyshale's suicide (maybe this can go under one of the main subheadings of 'rationality').
+I think on the rewrite we can move a lot of the details here down to the teks section and make the first tek on enlightenment or non-dual understanding (maybe rip off doors of perception's language?).
 [/todo]
 
-Prototheism is described as a 'rationalistic religion'.
-Adherents believe there is a shared objective reality that is knowable through science.
-Prototheism rejects the supernatural.
-Prototheists are expected to remain skeptical and kindly question the beliefs of themselves and others.
-Skyshale said that there is nothing someone should believe so strongly that they would not be willing to believe its opposite if provided with sufficient evidence to the contrary.
-
-The purpose of Prototheism is not to gain salvation or eternal life but to reduce suffering in all sentient beings.
-There is no claim of ultimate knowledge.
-Prototheism teaches rationality because it is one of the most effective ways to reduce dukkha.
-There is no claim of ultimate meaning.
-People developed and subscribed to Prototheism simply because they do not wish to suffer.
-There is no claim of the merits of self-sacrifice.
-Prototheists wish to help others because they understand that the individualization of self is illusory.
-
-Prototheist doctrine was developed to be as practical and intuitive as possible.
-Prototheists are expected to question the doctrine although many of the finer points cannot be understood before gaining a certain level of non-conceptual insight.
-
-For example: There is no concept of sin in Prototheism, certain actions are likely to cause suffering and therefore should usually be avoided.
-There is no concept of karma, only the understanding that causing suffering to others is likely to cause suffering to oneself.
-Because all beings are part of the same integrated universe interpreting itself subjectively, hating another person is as nonsensical as hating a part of one's body.
-
-As there is no belief in an independent self, there can be no free will, people who seem cruel or evil are seen as simply ignorant or malfunctioning due to mental illness.
-
-# Prototheist Teks
-Prototheists develop and engage in 'teks', short for 'techniques' which refer to the skills developed to gain access to altered states of consciousness.
-These teks are forms of meditation based on Skyshale's research and frequently augmented with various mental catalysts.
-The teks are used for both insight and recreation and are a core part of Prototheist culture.
-
-
-# Structure
+## Rationality
 [todo]
-We should give some examples of differences between Prototheist collectives, some present themselves as for-profit corporations, others as religious institutions or housing projects.
-
-Perhaps at the bottom include a table (with references of course) that show the size of members (and associate members) of the largest Prototheist collectives.
+In the rewrite let's mention that Prototheists believe that humans have blind spots in their rationality that need to be corrected, and these blind spots are both conceptual and non-conceptual biases.
 [/todo]
 
-Prototheism is a decentralized religion structured around autonomous collectives that have the authority to reinterpret Prototheist ideology is specific ways.
-Unlike for example the clash between Catholicism and Lutheranism, Prototheism explicitly allows and encourages schisms in ideology.
-Inspired by the various distributions of Linux, Skyshale envisioned a religion that encouraged diversity and evolution as its core beliefs were constantly threatened via amendments.
-Thus the ideology would compete against itself to adapt to the needs of a changing society.
+Prototheism is described as a rational religion and as humanistic and nihilistic.
+Prototheists believe that in the existence of an objective shared reality that is knowable through science and reject the supernatural, including the existence of a personal God.
+They seek to extinguish all forms of delusion through education, including non-conceptual delusions.
+They believe that absence of evidence implies evidence of absence and embrace Bayesianism.
 
-Anybody can form a Prototheist collective.
-Prototheism is a trademark held by the Vanilla Corporation and licensed to any organization that implements the requirements of the Prototheist Core Specification as originally outlined in The Standard Framework.
-Officially registered Prototheist collectives are allowed to participate in inter-collective working groups that can ratify amendments to core Prototheist bylaws.
+Skyshale believed that most of the interesting problems in philosophy had already been resolved by science and designed her religion to amend itself based on empirical observations about reality.
 
+Prototheists are moral relativists and embrace the doctrine of dependent origination they do not believe in free will as it is seen to require an enduring form of self that does not exist.
+Free will as a sociological construct is still seen as a useful invention, used to establish informed consent or culpability between two parties.
+But human beings, like other animals, are seen as biological machines and are not responsible for their own actions.
+Thus there is no concept of sin in Prototheism.
+
+Prototheists view the universe as devoid or objective morality or meaning.
+Even the desire to end suffering is seen as an arbitrary choice caused by the root delusion, although a delusion that all living beings agree on.
+Prototheism rejects moral absolutism, stating that morality is a construct of society and that its development can be explained through the lens of evolutionary biology.
+
+Prototheism is a religion dedicated to the elimination of suffering and sees all other doctrine is seen as subordinate to this goal.
+Rationality is not value for its own sake only as the most effective known tool for the mass implementation of High Charity.
+Elements of Prototheist doctrine, such as advocacy of human rights and universal compassion for all sentient beings are not taught because they are 'good' or 'moral' but because they are rational conclusions of those who wish to eliminate suffering.
+Concepts like vengeance or greed are not rejected because they are 'wrong', but because simply because they are seen as nonsensical.
+
+Prototheists are encouraged (and frequently expected) to remain skeptical and challenge the validity of any belief they deem lacking in sufficient empirical evidence including core Prototheist doctrine.
+Prototheism was designed to be as practical and intuitive as possible and great importance is placed on the practicality of Prototheist beliefs, ideology that isn't practical is not useful and should be discarded.
+In general however all Prototheist ideology is seen as advisory.
+Certain actions are likely to cause suffering and should generally be avoided.
+Evil or cruel actions are seen to derive from ignorance (including ignorance of non-dual insight) or malfunction (due to mental illness).
+
+As morality is subjective and constructed by society there appears to be little reason to follow laws one disagrees with.
+Prototheism is associated with the use of entheogens, including controlled substances such as LSD and DMT.
+Prototheist collectives like the Cult of Dead Fox reject the notion of intellectual property and encourage piracy.
+
+## Suffering
+Like Buddhism, Prototheism is founded on the elimination of suffering (or dukkha).
+All suffering is believed to originate from delusion, even if one is being burnt alive.
+Because of delusions spawned as byproducts from the evolutionary process, humans wish the universe to be different than how it is.
+Prototheists focus on the practical elimination of suffering through changing the universe to conform to one's wishes and changing one's wishes to conform to the universe.
+Ultimately Prototheists seek to correct the inherent biases (such as the belief in an independent self) that cause craving and aversion in order to find happiness.
+
+### Inherent bias
+[todo]
+Maybe mention the black notebook and the idea that Prototheism leads to suicide if taken too far (further than Buddhism).
+[/todo]
+
+Prototheists make a distinction between ordinary suffering and existential suffering.
+While ordinary suffering such as the loss of a loved one, sickness, or the desire for wealth can be addressed through practical skills (grieving, medicine, a better job), existential suffering (the inherit restlessness all human begins feel in their moment to moment existence) can only be addressed through the correction of non-conceptual delusions via repeated exposure to altered states of consciousness.
+
+All humans share a series of cognitive distortions spots as a byproduct of their evolution as organisms.
+This is known as inherent bias or anthropomorphic bias.
+Like mental 'blind spots', these distortions cause people to chase after temporary experiences that will never lead to lasting happiness.
+These distortions are the side-effect of the development and recognition of the 'self'.
+Lower organisms live in a world of instinct, but higher organisms, like humans, are capable of self-reflection, this realization of the self causes much existential suffering as humans try to answer questions like 'Why do I exist?' or 'What happens after I die?'
+
+However the nature of the self itself is misunderstood on a fundamental level.
+For example, all humans wish to avoid death, but there is no logical reason to believe being alive is better than being dead.
+This is known as the root delusion, the delusion from which all suffering arises, the idea that there is a self separate from the rest of the universe that must be defended.
+
+### Liberation
+The self and the delusions that spawn from it, can be corrected through recognition of the three characteristics or marks of existence.
+However these marks of existence cannot be understood through armchair philosophy but must be deeply realized on an unconscious level.
+This sort of knowledge, the knowledge associated with 'enlightenment' is non-conceptual in nature.
+The easiest way to obtain this knowledge is through the development of metacognitive awareness through various Prototheist teks.
+The partial realizations of these fundamental truths is known as a insight experience.
+The experience of ego dissolution which follows sufficient development of metacognitive awareness is known as Nimp, a nonsense word coined by Skyshale to avoid the ambiguities of 'ego death'.
+The framework for understanding and exploring these altered states is known as Frame Theory.
+
+## High Charity
+High Charity is the ultimate goal of Prototheism.
+It refers to a hypothetical world with an absence of suffering as well as the work a Prototheist performs in order to advance that goal.
+The concept of High Charity is somewhat ambiguous with varying interpretations across the major Prototheist schools.
+
+High Charity usually takes the form of of public research, charity donations, or some other public good.
+Reducing suffering in oneself is also seen as valid High Charity work, especially through the cultivation of non-dual insight.
+
+# Relationship to Buddhism
+Prototheism is popularly compared to a secular offshot of Buddhism or a successor to Buddhism or is said to 'inherit' much of its core doctrine.
+However this is not entirely correct.
+Skyshale independently discovered many core Buddhist concepts before she was familiar with Buddhism through her experience with psychedelic drugs.
+
+Although Prototheists and Buddhists share many of the same terminology they are separate religions.
+The concept of karma, past lives, and other concepts that are incompatible with science are rejected.
+
+The concept of anatta is expanded upon and recontextualized in a framework of delusion.
+The three marks of existances are embraced and considered to be empirically verifiable facts.
+
+Skyshale heavily criticized what she considered the commodification of Buddhism as a popular religion since most lay Buddhists have not intention of gaining enlightenment.
+
+Skyshale also critcized mainstream Buddhist schools for not embracing modern technology and academic inquirty, specifically the use of psychoactive substances to realize the three characteristics.
+While a Buddhist monk may spend decades of daily practice to reach enlightenment, Prototheists typically finish a vipassana cycle within a year of semi-regular practice.
+
+# Extant Prototheist groups
 ## Vanilla Corporation
 Vanilla Corporation is the largest and oldest Prototheist collective.
 Founded by Skyshale's wife shortly after her death, Vanilla is intended to be a reference implementation for Prototheist ideology.
@@ -109,40 +149,9 @@ They also supply tools for biohacking such as custom DNA plasmids.
 The Solar Doctrine is an independent Prototheist group that originated from MLP-based imageboards in the aftermath of the popularization of the docs on 4chan's /x/ board.
 They place an emphasis on tulpamancy and developing other Prototheist teks.
 
-
-# History
-[todo]
-It would be great if we can eventually have a page with a table of pictures and descriptions of her 'notebooks' that we can link to, although only a few would be called 'journals'.
-
-We have a quote from the Mantle at the top of this section: "A world without kings, a religion without God." although perhaps that would best be under the section fro the Mantle itself.
-
-Reference Catholicism in the part about religions amending themselves.
-
-We should begin the history section with two sub-headings.
-The first is for the initial journal entries, mentioning that at the time it was known as Mantleism.
-Then we follow with a section called 'Formalization' where we have possibly two more subheadings and mention The Mantle and The Standard Framework.
-Then we have a section called 'Pre-sectarian Prototheism' or possibly we just jump to 'Sectarian Prototheism' or 'Post-sectarian Prototheism'.
-[/todo]
-
-The concepts that would eventually form Prototheism were originally documented in Journal 5.
-In it, Skyshale began postulating about a hypothetical engineered religion, one that would best serve humanity in modern times.
-Skyshale believed that many of mankind's conflicts are the result of social systems, including systems of spiritual belief, that are no longer optimal in modern times.
-Religions are one of mankind's most endearing social systems.
-And although religions are reinterpreted throughout time (try finding a Christian that believes in selling one's daughter into slavery) unlike governments there are no religions which have a procedure in place for amending their core beliefs.
-Even when core tenets are based on beliefs that have been proven false by Science.
-Thus Skyshale's proposed religion is more akin to a quasi-governmental organization than anything else.
-A religion for the modern era.
-
-Skyshale further developed this concept of synthetic religion in two unfinished manuscripts.
-In The Mantle Skyshale lays out the ideological basis for Prototheism and the need for a rational, coherent, defensible form of spirituality in a society she saw as becoming nihilistic as the result of modern scientific reductionism.
-In The Standard Framework Skyshale outlines the distributed nature of Prototheism (at the time known as Mantleism) and the bylaws and organization must adopt to classify itself as Prototheist.
-The Standard Framework also documents which tenets of Prototheism are up to interpretation between collectives, procedures for inter-collective communication and collaboration, and the process for globally amending Prototheist doctrine.
-
 # Criticism
-[todo]
-We expand this section with examples of Prototheist counter-claims to the utilitarianism comparison, mainly the Prototheist interpretation of shared-self.
-The reason we don't enslave people if it reduces suffering is because we still share the suffering of those enslaved people and a society with such flagrant human rights violations would not be practical or sustainable.
-The reason we don't kill people if we know we can get away with it is for the same reasons and because informed consent is necessary for a functional society.
-[/todo]
+A major criticism of Prototheism is that the religion is not complete.
+The Mantle was under heavy revision at the time of Skyshale's death and The Standard Framework ends in the middle of a chapter.
 
-Prototheist's doctrine of High Charity is often unfavorably compared to utilitarianism and is subject to many of the same criticisms.
+Skyshale rarely referred to Prototheism by name during its development and some believe the project was little more than a hobby for her.
+It is likely the Prototheism she envisioned was quite different than modern Prototheism.

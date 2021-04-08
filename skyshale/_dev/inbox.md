@@ -24,6 +24,13 @@ She takes no income.
 ## Skyshale
 We want to imply a narrative that although she claims her life's work is about eliminating craving and aversion, she was an addict before she got into meditation and perhaps she's just trading one addiction for another.
 
+She writes in her journals while she plays with her cat using a toy on a pole she shakes with her toes.
+She has a bit of an obsession with multitasking, frequently programming and having conversations at the same time.
+
+### Appearance
+I like the idea of her being an Iranian girl who came over during the Iraq war.
+She has this serious look about her, like how you think of those portraits of Ayn Rand or that National Geographic girl.
+
 ### Suicide
 I like the idea that she died through self-immolation, similar to [Thích Quảng Đức](https://en.wikipedia.org/wiki/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c), who she was obsessed with.
 In her suicide note (the first two pages of the Black Notebook) she states that she wanted to tell her friends not to feel bad for her, that she was happy, but concepts like happiness and sadness don't mean much to her anymore.
@@ -35,3 +42,7 @@ Her last words can be those last two sentences the Buddha said and she doesn't f
 Another alternative would for someone to just find her burnt body in a rooms somewhere with the notebook next to it, but there isn't any sign of a struggle.
 
 Perhaps she predicted that her death would spawn the wide-spread adoption of Prototheism.
+
+She often said that someone who is truly enlightened sees that suffering is just the cause of misunderstanding and that they could be burned alive without flinching.
+Someone criticized this and challenged her to self-immolate if she was so enlightened.
+She accepted that challenge, famously stating that's how she would go out when the time came.

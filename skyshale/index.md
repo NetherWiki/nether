@@ -2,6 +2,18 @@
 header: Skyshale
 ---
 
+[todo]
+It would be great if we can eventually have a page with a table of pictures and descriptions of her 'notebooks' that we can link to, although only a few would be called 'journals'.
+
+For now let's just stick to her developing a method for enlightenment, we can introduce more concepts like tulpas after the initial article and her history and social relationships have been established.
+
+We mention in the splash section that she's a futurist.
+
+In a subheading we refer to The Skyshale Documents as the semi-canonical in Prototheism, we refer to the complete title as 'The Skyshale Documents' in the same way that we might refer to the "Pali Canon".
+
+In the rewrite we want to mention the black journal in the splash page at the end and controversy regarding whether or last few notebooks were valid or if she became psychotic (are they canon)?
+[/todo]
+
 [commentary]
 When I first start working on this article I found myself having a lot of trouble with these first few paragraphs, constantly writing and re-arranging them with that kind of timidness that plagues a lot of novices writers.
 
@@ -42,3 +54,11 @@ Her life and death was marked by controversy.
 Her suicide has been repeated replicated by other Prototheists who have read her work in what critics have called copycat cult suicides.
 Prototheists claim such suicides are the inevitable consequence of fully vanquishing the root delusion.
 The infamous 'black notebook' remains a centerpiece of this controversy.
+
+# Criticism
+## Allegations of scientific racism
+[todo]
+We expand this by mentioning that these allegations are made despite the fact that she had an African-American boyfriend, Kenrick Valler, who would go on to found CDF.
+[/todo]
+
+Some criticize Skyshale for what they regard as racist comments regarding her tentative assertion that there are biological factors for intelligence between gender and ethnicity.
