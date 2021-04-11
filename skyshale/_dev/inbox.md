@@ -71,8 +71,7 @@ She accepted that challenge, famously stating that's how she would go out when t
 
 ## Tsukitei Endo
 Endo is the deadname of the transgender CEO of Vanilla Corporation.
-She was a Japanese salaryman who hated his job and his family.
-She met Skyshale online, realized she was transgender, and left her wife and kids to move to America and marry Skyshale and live her life as a woman, even though she barely spoke English.
+She was a Japanese salaryman who hated his job and his family. She met Skyshale online, realized she was transgender, and left her wife and kids to move to America and marry Skyshale and live her life as a woman, even though she barely spoke English.
 She became one of Skyshale's most devoted disciples.
 
 We may include this as a quote: A lot of people outside of Vanilla believe she gained her role as CEO of Vanilla because she founded it, or for some SJW reasoning regarding her being transgender.
@@ -92,8 +91,26 @@ Last he checked Buddhas don't kill themselves.
 (Posting the story to Dharma Overground or a similar meditation community for feedback would eventually be a good idea.)
 
 # Cult of the Dead Fox
+## Culture
+
+We likely want to split the contents of this heading between 'Structure and Beliefs' and 'Culture'.
+
+We probably want to note here their influence in the hacking and indie music and art scene and the clothing-optional nature of their properties (it should probably be more than just a passing reference).
+
+One way to add realism is get permission to take pictures of real coops in Austin and fictionalize them as CDF properties.
+
+Let's emphasize their CDF's interpretation of some of Skyshale's more minor points, for example they refuse to take ownership for the charity work they do.
+We cite an infamous example where they were presented with an award from the city of Austin but refused to accept or acknowledge it.
+We also mention that they are big attendees to NASCO.
+Maybe they have a parkour and lock-picking subculture, I like the idea of regularly sponsored yearly trips to Enchanted Rock or 'real' meditation retreats.
+
+As part of their macabre culture, they don't have signs outside their properties, they just hang a stuffed fox on a noose in front of a tree.
+
 ## Shadow library
 I think they should probably operate a shadow library like libgen does, or maybe we fictionalize them contributing to that or zlib.
+
+## Website
+When we build a website for CDF we can say all hacker spaces and coops are currently closed to the public due to the COVID-19 pandemic.
 
 # Prototheism
 ## Doctrine
