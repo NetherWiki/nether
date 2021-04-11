@@ -33,6 +33,14 @@ She has this serious look about her, like how you think of those portraits of Ay
 ### Contributions
 In the contributions section of her article we say that much of the language she developed (like '8A geometry') is widely used in communities like PsychoanutWiki and Culadasa's The Mind Illuminated is widely believed to have been influenced by her work.
 
+### Family
+She is fiercely anti-islam, saying it was used to justify her mother's marriage to her alcoholic father (who she always wondered if her mother murdered.
+Her mother once beat her after she caught her daughter masturbating.
+Skyshale, despite being of middle-eastern descent, calls Islam the worst modern religion, saying if she was raised in her home country should wouldn't be able to shower her face.
+
+She has a complicated relationship with her mother, who she thinks can be incredibly charming at times.
+She sees her mother as having all this potential but being completely subserviant to her husband and her religion, which Skyshale resented, even as a child.
+
 ### Furry
 She explains that humans are really kind of disgusting and have too many details, which is why she likes furry porn which abstracts away those details.
 
@@ -127,6 +135,11 @@ We can have an article about the Land Before Time in Prototheist popular culture
 We specifically mention vipassanā and increasing introspective awareness until a fruition occurs but we also want to get examples of other kinds of ego death (drug induced, merging with a kasiṇa entity, etc.) and contrast drug induced ego death with meditation-induced (the latter which Prototheists always prefer as the former only provides largely transient insight).
 
 We can rip off personal bias supression from PsychoanutWiki as a way to describe some of the removal of self delusions.
+
+# Notebooks
+It would be great if we can eventually have a page with a table of pictures and descriptions of her 'notebooks' that we can link to, although only a few would be called 'journals'.
+
+In a subheading we refer to The Skyshale Documents as the semi-canonical in Prototheism, we refer to the complete title as 'The Skyshale Documents' in the same way that we might refer to the "Pali Canon".
 
 # Nouveau
 On this page we want to list the common genes they knock out in a table and have a section called 'Biohacking in Prototheism' here or on the Prototheism page talking about how some Prototheists in Vanilla aren't satisfied with their chemical stack and feel pressured to compete with others by doing possibly dangerous gene knockouts.
