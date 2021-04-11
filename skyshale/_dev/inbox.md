@@ -5,7 +5,6 @@ This list is a table and we mention causes of death (including failed attempts l
 
 We open with a quote where Skyshale says she was never good at lying to others and she is even worse at lying to herself.
 She knows she's on a path to self-destruction now, she can't fight the truth, she doesn't know how.
-
 ## The Standard Framework
 Skyshale uses the term 'self-assembling' to describe the way splinter Prototheist groups grow and merge back together.
 
@@ -121,10 +120,24 @@ Maybe we should merge this with the cognitive distortions section.
 
 Can we reference the anthropomorphic principle here?
 
+# The Land Before Time
+We can have an article about the Land Before Time in Prototheist popular culture with a description of the MST3K-style showings and a table of descriptions of the parody characters and their traits, some of the jokes listed as shoutouts perhaps.
+
 # Nimp
 We specifically mention vipassanā and increasing introspective awareness until a fruition occurs but we also want to get examples of other kinds of ego death (drug induced, merging with a kasiṇa entity, etc.) and contrast drug induced ego death with meditation-induced (the latter which Prototheists always prefer as the former only provides largely transient insight).
 
 We can rip off personal bias supression from PsychoanutWiki as a way to describe some of the removal of self delusions.
+
+# Nouveau
+On this page we want to list the common genes they knock out in a table and have a section called 'Biohacking in Prototheism' here or on the Prototheism page talking about how some Prototheists in Vanilla aren't satisfied with their chemical stack and feel pressured to compete with others by doing possibly dangerous gene knockouts.
+It is believed these knockouts are done by many of the top performers in Vanilla.
+(Maybe make a page called Performance enhancing substances in Prototheism to talk about the stack and biohacking.)
+
+Maybe people believe they are an offshot of Vanilla, although this is dismissed as a conspiracy theory.
+
+Maybe it's called the 'Lambda Leaks' because Lambda is the name of the Vanilla organization that does studies, and they did a thorough study on Nouveau that got leaked with a whole bunch of other stuff.
+Lambda would be a great name for that RAND-like sub-company.
+This is part of the conspiracy theory and we specifically mention the idea that Nouveau is a 'illegal subsidary' of Vanilla and these leaks (when Lambda usually has great security) is just part of the ploy.
 
 # Prototheism
 ## Doctrine
@@ -150,7 +163,6 @@ She then developed general purpose 'registers' for storing different kinds of in
 
 # Vanilla
 ## Funding
-
 
 
 ## Gods
