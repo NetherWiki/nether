@@ -109,6 +109,12 @@ As part of their macabre culture, they don't have signs outside their properties
 We have a quote at the beginning where Skyshale explains these frames are the smallest visible units of consciousness.
 She makes a joke about them being hte 'quantum' of consicousness but also that we all know what a certain someone says about the word quantum being the biggest words in a paper.
 
+# Inherent Bias
+There should be a redirect link at the top of the section for the Wikipedia article on the statistical concept.
+Maybe we should merge this with the cognitive distortions section.
+
+Can we reference the anthropomorphic principle here?
+
 ## Shadow library
 I think they should probably operate a shadow library like libgen does, or maybe we fictionalize them contributing to that or zlib.
 

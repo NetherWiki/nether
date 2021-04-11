@@ -39,33 +39,6 @@ Geas are a form of rapport-based contract or self-contract found in certain Prot
 Geas are a type of formal promise and taboo that cannot be broken under penalty of massive loss of rapport.
 They serve as the basis of interrupt phrases as well as the contracts that make up most inter-collective agreements.
 
-# High Charity
-[todo]
-In the rewrite let's go back to the Wikipedia page on 'honor' and rip off some of the descriptions there.
-
-Let's go over some of the ambiguous Buddhist terms on Wikipedia and rip off how they articles describe the ambiguity.
-[/todo]
-
-In Prototheism High Charity is a multi-faceted concept that remains somewhat ambiguous with different interpretations among the major Prototheist factions.
-Roughly, it refers to a hypothetical world without suffering as well as the work Prototheists do to reach that point.
-It is a major tenet of Prototheism as well as its ultimate goal, although the concept is abstract and not meant to be taken literally.
-It is frequently referenced in the context of 'rapport'.
-
-All Prototheists are expected to contribute to High Charity in some way and gain rapport by forming or joining projects that maximize reduction in human suffering.
-However contributing to one's own happiness is also considered valid High Charity.
-
-# Inherent Bias
-[todo]
-There should be a redirect link at the top of the section for the Wikipedia article on the statistical concept.
-Maybe we should merge this with the cognitive distortions section.
-
-Can we reference the anthropomorphic principle here?
-[/todo]
-
-Inherent Bias in the context of Prototheism refers to the systemic cognitive distortions all organisms have as a side-effect of the evolutionary process.
-According to Prototheism all self-aware agents must suffer from the cognitive distortions associated with inherent bias, include the root delusion nebulously known as 'self.'
-Although humanity owes its success to its ability to rationally view the world, the existence of inherent bias in the knowledge of man's inevitable death leads to absurdities, such as the invention of God.
-
 # Interrupt Phrases
 [todo]
 Maybe starts off with a Skyshale quote from The Mantle justifying the use of interrupt phrases in the context of Elbereth and absolute honesty.
