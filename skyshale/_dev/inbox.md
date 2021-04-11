@@ -105,6 +105,12 @@ Maybe they have a parkour and lock-picking subculture, I like the idea of regula
 
 As part of their macabre culture, they don't have signs outside their properties, they just hang a stuffed fox on a noose in front of a tree.
 
+## Shadow library
+I think they should probably operate a shadow library like libgen does, or maybe we fictionalize them contributing to that or zlib.
+
+## Website
+When we build a website for CDF we can say all hacker spaces and coops are currently closed to the public due to the COVID-19 pandemic.
+
 # Frame Theory
 We have a quote at the beginning where Skyshale explains these frames are the smallest visible units of consciousness.
 She makes a joke about them being hte 'quantum' of consicousness but also that we all know what a certain someone says about the word quantum being the biggest words in a paper.
@@ -115,11 +121,10 @@ Maybe we should merge this with the cognitive distortions section.
 
 Can we reference the anthropomorphic principle here?
 
-## Shadow library
-I think they should probably operate a shadow library like libgen does, or maybe we fictionalize them contributing to that or zlib.
+# Nimp
+We specifically mention vipassanā and increasing introspective awareness until a fruition occurs but we also want to get examples of other kinds of ego death (drug induced, merging with a kasiṇa entity, etc.) and contrast drug induced ego death with meditation-induced (the latter which Prototheists always prefer as the former only provides largely transient insight).
 
-## Website
-When we build a website for CDF we can say all hacker spaces and coops are currently closed to the public due to the COVID-19 pandemic.
+We can rip off personal bias supression from PsychoanutWiki as a way to describe some of the removal of self delusions.
 
 # Prototheism
 ## Doctrine

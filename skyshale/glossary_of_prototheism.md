@@ -64,14 +64,6 @@ Catalysts alleviate this by temporarily boosting introspective awareness, allowi
 
 Mental catalysts can push vipassanā mediators years forward in their practice, but are meant to be taken sparingly and not as substitutes for sober training.
 
-# Nimp
-[todo]
-We specifically mention vipassanā and increasing introspective awareness until a fruition occurs but we also want to get examples of other kinds of ego death (drug induced, merging with a kasiṇa entity, etc.) and contrast drug induced ego death with meditation-induced (the latter which Prototheists always prefer as the former only provides largely transient insight).
-[/todo]
-
-Nimp, also referred to as 'ego death', 'fruition', 'nirvana', or an 'insight experience' refers to an altered state of consciousness where a person temporarily loses their subjective self-identity.
-It is the ultimate end-point of a successful vipassanā cycle and can also be induced through common psychedelic drugs such as LSD.
-
 # Rapport
 [todo]
 Vanilla actually quantified rapport as a cryptocurrency (with geas also quantified as smart contracts on the blockchain).
