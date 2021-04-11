@@ -92,7 +92,6 @@ Last he checked Buddhas don't kill themselves.
 
 # Cult of the Dead Fox
 ## Culture
-
 We likely want to split the contents of this heading between 'Structure and Beliefs' and 'Culture'.
 
 We probably want to note here their influence in the hacking and indie music and art scene and the clothing-optional nature of their properties (it should probably be more than just a passing reference).
@@ -105,6 +104,10 @@ We also mention that they are big attendees to NASCO.
 Maybe they have a parkour and lock-picking subculture, I like the idea of regularly sponsored yearly trips to Enchanted Rock or 'real' meditation retreats.
 
 As part of their macabre culture, they don't have signs outside their properties, they just hang a stuffed fox on a noose in front of a tree.
+
+# Frame Theory
+We have a quote at the beginning where Skyshale explains these frames are the smallest visible units of consciousness.
+She makes a joke about them being hte 'quantum' of consicousness but also that we all know what a certain someone says about the word quantum being the biggest words in a paper.
 
 ## Shadow library
 I think they should probably operate a shadow library like libgen does, or maybe we fictionalize them contributing to that or zlib.
