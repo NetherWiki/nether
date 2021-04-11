@@ -1,13 +1,3 @@
-[todo]
-We note at the beginning that their angle is transhumanism and push the fact that they exist to induce a technological singularity.
-In this splash section we mention they are not only the reference implementation of Prototheism but also serves as the de facto authority for maintaining the core Prototheist doctrine.
-Hey also license the Prototheist trademark (although even registering the trademark is seen by some as non-Prototheist).
-They see themselves as the direct descendants to Skyshale's ideology.
-[/todo]
-
-[todo]
-At some point we will have that quote from Vanilla about people always needing gods, CDF's ultimate goal is to create a living god for humanity.
-[/todo]
 
 [todo]
 One of the reasons Vanilla is so exclusive and why everyone wants to join is the money.

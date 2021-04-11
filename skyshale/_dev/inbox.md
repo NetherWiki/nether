@@ -3,6 +3,9 @@
 We have a list of individuals who read it and attempted suicide.
 This list is a table and we mention causes of death (including failed attempts leading to commas and supposed recoveries that killed themselves as soon as they were released from  suicide watch), there are many reported self-immolations.
 
+We open with a quote where Skyshale says she was never good at lying to others and she is even worse at lying to herself.
+She knows she's on a path to self-destruction now, she can't fight the truth, she doesn't know how.
+
 ## The Standard Framework
 Skyshale uses the term 'self-assembling' to describe the way splinter Prototheist groups grow and merge back together.
 
@@ -115,6 +118,13 @@ She then developed general purpose 'registers' for storing different kinds of in
 
 
 # Vanilla
+## Funding
+
+
+
+## Gods
+When explaining Vanilla's desire to build a AI superintelligence we have a quote from Skyshale explaining humans have always needed gods.
+
 ## Rapport
 Rapport in Vanilla is split into permanent and seasonal rapport, like a leaderboard that is reset at regular intervals.
 
@@ -124,3 +134,7 @@ Likely because they recognize the Nether connection.
 They are willing to pay large sums for additional transmissions or information on Rosewood's source.
 
 Skyshale even alludes to the Nether at some point, calling it the seamless unspeakable something that reality as we know it is coiled into.
+
+## Trademark
+Not only are they the reference implementation for Prototheism, they also exist as the defacto authority for maintaing the core prototheist doctrine and license the trademark.
+However many Prototheists criticize the idea of even having a trademark.
