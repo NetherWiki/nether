@@ -26,6 +26,8 @@ Others see her as a prophet spreading ultimate truth.
 She writes in her journals while she plays with her cat using a toy on a pole she shakes with her toes.
 She has a bit of an obsession with multitasking, frequently programming and having conversations at the same time.
 
+Let's eventually revisit the idea of her loss of sanity, at least in terms of her talking about her paranormal experiences in her later journals, many of her followers see her has sort of losing herself.
+
 ### Appearance
 I like the idea of her being an Iranian girl who came over during the Iraq war.
 She has this serious look about her, like how you think of those portraits of Ayn Rand or that National Geographic girl.
@@ -97,6 +99,12 @@ Daniel Ingram later referenced her suicide, criticizing her claims of Buddhahood
 Last he checked Buddhas don't kill themselves.
 (Posting the story to Dharma Overground or a similar meditation community for feedback would eventually be a good idea.)
 
+# C-Sec
+I like the idea that Prototheism (and Vanilla specifically) maintains a kind of shadow government with their own principle organs.
+The legislative branch is the working committe.
+The Judicial branch is ArbCom.
+They even have C-Sec, Corporate Security, their own private PMC with way too much money.
+
 # Cult of the Dead Fox
 ## Culture
 We likely want to split the contents of this heading between 'Structure and Beliefs' and 'Culture'.
@@ -128,10 +136,13 @@ Maybe we should merge this with the cognitive distortions section.
 
 Can we reference the anthropomorphic principle here?
 
-# The Land Before Time
-We can have an article about the Land Before Time in Prototheist popular culture with a description of the MST3K-style showings and a table of descriptions of the parody characters and their traits, some of the jokes listed as shoutouts perhaps.
+# Non-dual Insight
+Let's make this a article and describe Nimp and ego death and sub-sections, describing both Skyshale's formalisim and the drug slang version (noting the difference between ego death on say, ketamine vs LSD).
 
-# Nimp
+## Insight Experience
+Here is where we have the examples rather than theory.
+
+### Nimp
 We specifically mention vipassanā and increasing introspective awareness until a fruition occurs but we also want to get examples of other kinds of ego death (drug induced, merging with a kasiṇa entity, etc.) and contrast drug induced ego death with meditation-induced (the latter which Prototheists always prefer as the former only provides largely transient insight).
 
 We can rip off personal bias supression from PsychoanutWiki as a way to describe some of the removal of self delusions.
@@ -151,6 +162,8 @@ Maybe people believe they are an offshot of Vanilla, although this is dismissed 
 Maybe it's called the 'Lambda Leaks' because Lambda is the name of the Vanilla organization that does studies, and they did a thorough study on Nouveau that got leaked with a whole bunch of other stuff.
 Lambda would be a great name for that RAND-like sub-company.
 This is part of the conspiracy theory and we specifically mention the idea that Nouveau is a 'illegal subsidary' of Vanilla and these leaks (when Lambda usually has great security) is just part of the ploy.
+
+For the Lambada Leaks lets get into the specific details of the nature of the hack, it's quite sophisticated.
 
 # Prototheism
 ## Doctrine
@@ -173,6 +186,8 @@ Maybe there's even a terrorism-based Prototheist collective that wants to ultima
 Skyshale started with playing mind-chess, expannding it with 'reversing' moves (similar to chess with time travel.)
 She then developed general purpose 'registers' for storing different kinds of information and retrieving them in her mind.
 
+# The Land Before Time
+We can have an article about the Land Before Time in Prototheist popular culture with a description of the MST3K-style showings and a table of descriptions of the parody characters and their traits, some of the jokes listed as shoutouts perhaps.
 
 # Vanilla Corporation
 We call Vanilla Corporation the 'invisible titan' much like FreeBSD is the 'unseen giant'.
@@ -180,6 +195,13 @@ They frequently fund open source work through shell companies.
 The almost never directly represent themselves except to other Prototheists and purposefully keep a low profile to avoid being seen as contributing to high charity for their own sake.
 
 (Although perhaps we should focus more on CDF keeping a low profile while keeping Vanilla as a foil.)
+
+They are quite political, frequently funding lobbiest and even trying to get their members into congress, which fuels the conspiracy theories, including the theory that Skyshale is still alive and locked in their basement.
+This causes controversy because other Prototheists don't think Skyshale would have advocating openly participating in politics.
+
+## Research
+### Replications
+One of their major projects is just replicating other research in a 'boring' way to fight the replicability crisis.
 
 ## Funding
 One of the reasons Vanilla is so exclusive and why everyone wants to join is the money.

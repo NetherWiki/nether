@@ -1,4 +1,4 @@
-In Prototheist doctrine Inherent Bias (also known as Anthropomorphic Bias) refers to the correctable cognitive distortions all sapient life normally shares as a side effect of the evolutionary process.
+In Prototheist doctrine Inherent Bias (also known as Anthropic Bias) refers to the correctable cognitive distortions all sapient life normally shares as a side effect of the evolutionary process.
 It refers to the delusions derived from an unexamined view of 'self' and the repetitive suffering that spawn from them.
 
 Inherent Bias exists because in order for life to thrive it must hold certain non-factual beliefs.

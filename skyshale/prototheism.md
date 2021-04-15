@@ -67,7 +67,7 @@ Prototheist collectives like the Cult of Dead Fox reject the notion of intellect
 
 ## Suffering
 Like Buddhism, Prototheism is founded on the elimination of suffering (or dukkha).
-All suffering is believed to originate from delusion, even if one is being burnt alive.
+All suffering is believed to originate from delusion, even if one is being burnt alive, and that this delusion takes the form of wanting things to be different than they are.
 Because of delusions spawned as byproducts from the evolutionary process, humans wish the universe to be different than how it is.
 Prototheists focus on the practical elimination of suffering through changing the universe to conform to one's wishes and changing one's wishes to conform to the universe.
 Ultimately Prototheists seek to correct the inherent biases (such as the belief in an independent self) that cause craving and aversion in order to find happiness.
@@ -123,6 +123,12 @@ Skyshale heavily criticized what she considered the commodification of Buddhism 
 Skyshale also critcized mainstream Buddhist schools for not embracing modern technology and academic inquirty, specifically the use of psychoactive substances to realize the three characteristics.
 While a Buddhist monk may spend decades of daily practice to reach enlightenment, Prototheists typically finish a vipassana cycle within a year of semi-regular practice.
 
+# Structure
+Prototheism is structured into multiple semi-autonomous sects, frequently formalized into DAOs.
+These Prototheist collectives have the authority to reinterpret non-core aspects of Prototheist doctrine as they see fit.
+Prototheism is a federated group, with a collective-elected 'superstructure' that deals with inter-collective conflict and collaboration.
+Organs of this superstructure include the Single Prototheist Working Community, ArbCom, and C-Sec.
+
 # Extant Prototheist groups
 ## Vanilla Corporation
 Vanilla Corporation is the largest and oldest Prototheist collective.
@@ -148,6 +154,17 @@ They also supply tools for biohacking such as custom DNA plasmids.
 ## Solar Doctrine
 The Solar Doctrine is an independent Prototheist group that originated from MLP-based imageboards in the aftermath of the popularization of the docs on 4chan's /x/ board.
 They place an emphasis on tulpamancy and developing other Prototheist teks.
+
+# Prototheist teks
+Prototheism is a religion based upon the knowledge gained through exploration of altered forms of consciousness.
+This exploration takes the form of 'teks', a pun on 'techniques', which are protocols for enter and exiting these altered states.
+These teks can take the form of 1000 year-old meditation instructions, such as various forms of vipassana.
+But they're mostly modern techniques, developed through large-scale clinical testing to maximize results and combined with controlled dosages of specific psychoactive substances, known as catalysts.
+
+## Lucid dreaming
+Lucid dreaming was Skyshale's initial foray into altered states.
+Prototheism has enjoyed regular popularity in lucid dreaming communities.
+Groups like the lucid dreaming subreddit benefit from research by Prototheist groups (like Vanilla) that seek to enhance community-developed luicd dreaming techniques like Wake-Back-To-Bed.
 
 # Criticism
 A major criticism of Prototheism is that the religion is not complete.
