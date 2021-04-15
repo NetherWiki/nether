@@ -245,3 +245,10 @@ Skyshale even alludes to the Nether at some point, calling it the seamless unspe
 ## Trademark
 Not only are they the reference implementation for Prototheism, they also exist as the defacto authority for maintaing the core prototheist doctrine and license the trademark.
 However many Prototheists criticize the idea of even having a trademark.
+
+# Zebulon Protocol
+I hate this name and we need to come up with a better one, although I like the idea of it being named based on a location near where Skyshale lived (North Carolina).
+
+## Changelog
+Let's have a changelog at the bottom of this article for realism, ripping of Wikipedia-style tables for C/C++ language revisions.
+These tables show accepted (and perhaps pending / rejected) proposals for the bi-yearly release of the protocol.
