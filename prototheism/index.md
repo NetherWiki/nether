@@ -26,7 +26,7 @@ As a new rapidly growing religion Prototheism is associated with many conspiracy
 
 # Worldview
 [todo]
-I think on the rewrite we can move a lot of the details here down to the teks section and make the first tek on enlightenment or non-dual understanding (maybe rip off doors of perception's language?).
+I think on the rewrite we can move a lot of the details here down to the Teks section and make the first Tek on enlightenment or non-dual understanding (maybe rip off doors of perception's language?).
 [/todo]
 
 ## Rationality
@@ -37,7 +37,7 @@ In the rewrite let's mention that Prototheists believe that humans have blind sp
 Prototheism is described as a rational religion and as humanistic and nihilistic.
 Prototheists believe that in the existence of an objective shared reality that is knowable through science and reject the supernatural, including the existence of a personal God.
 They seek to extinguish all forms of delusion through education, including non-conceptual delusions.
-They believe that absence of evidence implies evidence of absence and embrace Bayesianism.
+They believe that absence of evidence implies evidence of absence and embrace [Bayesianism](https://www.lesswrong.com/posts/AN2cBr6xKWCB8dRQG/what-is-bayesianism).
 
 Skyshale believed that most of the interesting problems in philosophy had already been resolved by science and designed her religion to amend itself based on empirical observations about reality.
 
@@ -94,7 +94,7 @@ This is known as the root delusion, the delusion from which all suffering arises
 The self and the delusions that spawn from it, can be corrected through recognition of the three characteristics or marks of existence.
 However these marks of existence cannot be understood through armchair philosophy but must be deeply realized on an unconscious level.
 This sort of knowledge, the knowledge associated with 'enlightenment' is non-conceptual in nature.
-The easiest way to obtain this knowledge is through the development of metacognitive awareness through various Prototheist teks.
+The easiest way to obtain this knowledge is through the development of metacognitive awareness through various Prototheist Teks.
 The partial realizations of these fundamental truths is known as a insight experience.
 The experience of ego dissolution which follows sufficient development of metacognitive awareness is known as Nimp, a nonsense word coined by Skyshale to avoid the ambiguities of 'ego death'.
 The framework for understanding and exploring these altered states is known as Frame Theory.
@@ -108,23 +108,23 @@ High Charity usually takes the form of of public research, charity donations, or
 Reducing suffering in oneself is also seen as valid High Charity work, especially through the cultivation of non-dual insight.
 
 # Relationship to Buddhism
-Prototheism is popularly compared to a secular offshot of Buddhism or a successor to Buddhism or is said to 'inherit' much of its core doctrine.
+Prototheism is popularly compared to a secular offshoot of Buddhism or a successor to Buddhism or is said to 'inherit' much of its core doctrine.
 However this is not entirely correct.
 Skyshale independently discovered many core Buddhist concepts before she was familiar with Buddhism through her experience with psychedelic drugs.
 
 Although Prototheists and Buddhists share many of the same terminology they are separate religions.
 The concept of karma, past lives, and other concepts that are incompatible with science are rejected.
 
-The concept of anatta is expanded upon and recontextualized in a framework of delusion.
-The three marks of existances are embraced and considered to be empirically verifiable facts.
+The concept of anattā,is expanded upon and recontextualized in a framework of delusion.
+The three marks of existence are embraced and considered to be empirically verifiable facts.
 
 Skyshale heavily criticized what she considered the commodification of Buddhism as a popular religion since most lay Buddhists have not intention of gaining enlightenment.
 
-Skyshale also critcized mainstream Buddhist schools for not embracing modern technology and academic inquirty, specifically the use of psychoactive substances to realize the three characteristics.
-While a Buddhist monk may spend decades of daily practice to reach enlightenment, Prototheists typically finish a vipassana cycle within a year of semi-regular practice.
+Skyshale also criticized mainstream Buddhist schools for not embracing modern technology and academic inquiry, specifically the use of psychoactive substances to realize the three characteristics.
+While a Buddhist monk may spend decades of daily practice to reach enlightenment, Prototheists typically finish a vipassanā cycle within a year of semi-regular practice.
 
 # Structure
-Prototheism is structured into multiple semi-autonomous sects, frequently formalized into DAOs.
+Prototheism is structured into multiple semi-autonomous sects, frequently formalized into Decentralized Autonomous Organizations.
 These Prototheist collectives have the authority to reinterpret non-core aspects of Prototheist doctrine as they see fit.
 Prototheism is a federated group, with a collective-elected 'superstructure' that deals with inter-collective conflict and collaboration.
 Organs of this superstructure include the Single Prototheist Working Community, ArbCom, and C-Sec.
@@ -152,19 +152,19 @@ To this end they have become one of the largest distributors of controlled subst
 They also supply tools for biohacking such as custom DNA plasmids.
 
 ## Solar Doctrine
-The Solar Doctrine is an independent Prototheist group that originated from MLP-based imageboards in the aftermath of the popularization of the docs on 4chan's /x/ board.
-They place an emphasis on tulpamancy and developing other Prototheist teks.
+The Solar Doctrine is an independent Prototheist group that originated from MLP-based image boards in the aftermath of the popularization of the docs on 4chan's /x/ board.
+They place an emphasis on tulpamancy and developing other Prototheist Teks.
 
-# Prototheist teks
+# Prototheist Teks
 Prototheism is a religion based upon the knowledge gained through exploration of altered forms of consciousness.
-This exploration takes the form of 'teks', a pun on 'techniques', which are protocols for enter and exiting these altered states.
-These teks can take the form of 1000 year-old meditation instructions, such as various forms of vipassana.
+This exploration takes the form of 'Teks', a pun on 'techniques', which are protocols for enter and exiting these altered states.
+These Teks can take the form of 1000 year-old meditation instructions, such as various forms of vipassanā.
 But they're mostly modern techniques, developed through large-scale clinical testing to maximize results and combined with controlled dosages of specific psychoactive substances, known as catalysts.
 
 ## Lucid dreaming
 Lucid dreaming was Skyshale's initial foray into altered states.
 Prototheism has enjoyed regular popularity in lucid dreaming communities.
-Groups like the lucid dreaming subreddit benefit from research by Prototheist groups (like Vanilla) that seek to enhance community-developed luicd dreaming techniques like Wake-Back-To-Bed.
+Groups like the lucid dreaming subreddit benefit from research by Prototheist groups (like Vanilla) that seek to enhance community-developed lucid dreaming techniques like Wake-Back-To-Bed.
 
 # Criticism
 A major criticism of Prototheism is that the religion is not complete.
