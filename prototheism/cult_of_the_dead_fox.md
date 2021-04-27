@@ -1,4 +1,4 @@
-The Cult of the Dead Fox is an austin-based Prototheist collective specializing in cooperative housing.
+The Cult of the Dead Fox (frequently referred to by the acronym CDF or simply as 'the Cult') is an austin-based Prototheist collective specializing in cooperative housing.
 It was founded by Kenrick Valler as one of the original two implementations of post-sectarian Prototheism and remains one of the most widely-known and influential sects.
 
 CDF adherents, known as cultists, seek High Charity through personal enlightenment and anonymous grass-roots philanthropic action.
