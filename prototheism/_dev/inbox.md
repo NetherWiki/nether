@@ -165,6 +165,8 @@ This is part of the conspiracy theory and we specifically mention the idea that 
 
 For the Lambada Leaks lets get into the specific details of the nature of the hack, it's quite sophisticated.
 
+We should expand upon their agenda, maybe their purposefully trying to introduce permanent changes in the human gene pool using specific brands of their CRISPR kits, they probably have a brand name for kits that cross the germ line.
+
 # Prototheism
 ## Doctrine
 ### Spectrum of experience
