@@ -3,6 +3,8 @@ Early on in the relationship to Buddhism section (or even the splash) we mention
 In the relationship section we can specifically mention the idea of more enlightened than enlightened.
 [/todo]
 
+[TOC]
+
 [info]
 Prototheism is a diverse ideology and associated system of belief and practices.
 For the purpose of this article it will be referred to as a new religious movement.
