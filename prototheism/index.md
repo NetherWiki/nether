@@ -1,16 +1,3 @@
-[todo]
-Early on in the relationship to Buddhism section (or even the splash) we mention that Prototheism expands upon Buddhism, or is seen to, chasing more than just enlightenment.
-In the relationship section we can specifically mention the idea of more enlightened than enlightened.
-[/todo]
-
-[TOC]
-
-[info]
-Prototheism is a diverse ideology and associated system of belief and practices.
-For the purpose of this article it will be referred to as a new religious movement.
-However it is important to note that some Prototheist organizations reject this label, viewing themselves as entirely secular institutions.
-[/info]
-
 Prototheism is an atheistic, rationalistic, decentralized religion based on the collective works of Azar Kianizadeh (popularly known as Skyshale).
 Its adherents, known as Prototheists, believe that suffering in all its forms is the byproduct of delusional modes of thinking.
 They apply rational inquiry and effective altruism to gain insight and reduce suffering for the human race and all sentient beings, a concept known as High Charity.
@@ -26,16 +13,10 @@ Prototheism now enjoys a healthily growing following.
 Prominent collectives like Vanilla have attracted criticism for their wealth and influence.
 As a new rapidly growing religion Prototheism is associated with many conspiracy theories, such as it being a front for a New World Order.
 
+[TOC]
+
 # Worldview
-[todo]
-I think on the rewrite we can move a lot of the details here down to the Teks section and make the first Tek on enlightenment or non-dual understanding (maybe rip off doors of perception's language?).
-[/todo]
-
 ## Rationality
-[todo]
-In the rewrite let's mention that Prototheists believe that humans have blind spots in their rationality that need to be corrected, and these blind spots are both conceptual and non-conceptual biases.
-[/todo]
-
 Prototheism is described as a rational religion and as humanistic and nihilistic.
 Prototheists believe that in the existence of an objective shared reality that is knowable through science and reject the supernatural, including the existence of a personal God.
 They seek to extinguish all forms of delusion through education, including non-conceptual delusions.
@@ -75,10 +56,6 @@ Prototheists focus on the practical elimination of suffering through changing th
 Ultimately Prototheists seek to correct the inherent biases (such as the belief in an independent self) that cause craving and aversion in order to find happiness.
 
 ### Inherent bias
-[todo]
-Maybe mention the black notebook and the idea that Prototheism leads to suicide if taken too far (further than Buddhism).
-[/todo]
-
 Prototheists make a distinction between ordinary suffering and existential suffering.
 While ordinary suffering such as the loss of a loved one, sickness, or the desire for wealth can be addressed through practical skills (grieving, medicine, a better job), existential suffering (the inherit restlessness all human begins feel in their moment to moment existence) can only be addressed through the correction of non-conceptual delusions via repeated exposure to altered states of consciousness.
 
