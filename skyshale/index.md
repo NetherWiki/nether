@@ -1,3 +1,7 @@
+---
+header: Skyshale
+---
+
 [todo]
 In the rewrite let's further split the contents between this page and Skyshale's page (maybe renaming "Skyshale" to "Skyshale (Person)").
 This page will deal with the contents of her writing and the influence it had on Prototheism and the web as a whole after it got leaked to /x/.

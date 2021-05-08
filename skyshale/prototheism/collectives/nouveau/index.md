@@ -1,3 +1,7 @@
+---
+header: Nouveau Group
+---
+
 Nouveau (full name: The Nouveau Group) is an unregistered candestine french Prototheist collective best known for their darknet marketplace 'Dark Side'.
 Nouveau is one of the most popular distributors of illegal drugs on the deep web.
 They are the source of choice for Prototheists looking for high quality components of psychonautic catalysts, such as LSD.

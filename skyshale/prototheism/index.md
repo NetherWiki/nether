@@ -1,14 +1,19 @@
-Prototheism is an atheistic, rationalistic, decentralized religion based on the collective works of Azar Kianizadeh (popularly known as Skyshale).
-Its adherents, known as Prototheists, believe that suffering in all its forms is the byproduct of delusional modes of thinking.
-They apply rational inquiry and effective altruism to gain insight and reduce suffering for the human race and all sentient beings, a concept known as High Charity.
+**Prototheism** is an atheistic, decentralized, rational religion based on the collective works of [Azar Kianizadeh](../azar_kianizadeh.md) (popularly known by the pseudonym **Skyshale**).
+Its adherents, known as Prototheists, believe that human suffering in all forms is the result of delusional modes of thinking.
+Prototheists combine meditation and entheogenic drug use in order to develop [metacognitive awareness](metacognitive_awareness.md) and gain [non-dual insight](insight.md).
+This insight is used to correct what they perceive as systemic distortions inherent to human cognition, such as the belief in an enduring independent self.
+The ultimate goal of Prototheism is the eradication of suffering in all sentient beings, a concept referred to as [High Charity](high_charity.md).
 
-Prototheists believe enlightenment is a real and desirable state which can be studied empirically and induced through through the cultivation of non-dual insight.
-Building upon Skyshale's research into ego-dissolution, known as Frame Theory, Prototheists combine modern meditative techniques with psychoactive catalysts in order to enter and explore non-ordinary states of consciousness.
-Through the development of metacognitive awareness in these altered states Prototheists learn to recognize and correct various non-conceptual biases and systemic distortions inherent in human perception, such as the belief in an enduring independent self.
+Prototheism is popularly described as a modern or secular offshoot of Buddhism, although this comparison is disputed.
+Unlike Buddhism (and other religions) Prototheism was designed to be compatible with modern science and rejects the supernatural.
+
+Prototheists believe enlightenment is a real and desirable state which can be studied empirically and induced through repeated exposure to certain non-ordinary states of consciousness.
+Building upon Skyshale's research into ego-dissolution, known as Frame Theory, Prototheists explore and study these altered states academically.
 
 Prototheism was developed through Skyshale's various notebook entries, specifically her two incomplete manuscripts: The Mantle and The Standard Framework.
 The first formal Prototheist collective was formed shortly after her death.
 Prototheism gained mainstream attention after Skyshale's notebooks were leaked to 4chan's /x/ board.
+
 Prototheism now enjoys a healthily growing following.
 Prominent collectives like Vanilla have attracted criticism for their wealth and influence.
 As a new rapidly growing religion Prototheism is associated with many conspiracy theories, such as it being a front for a New World Order.
@@ -17,7 +22,7 @@ As a new rapidly growing religion Prototheism is associated with many conspiracy
 
 # Worldview
 ## Rationality
-Prototheism is described as a rational religion and as humanistic and nihilistic.
+Prototheism is described as a rationalistic religion and as humanistic and nihilistic.
 Prototheists believe that in the existence of an objective shared reality that is knowable through science and reject the supernatural, including the existence of a personal God.
 They seek to extinguish all forms of delusion through education, including non-conceptual delusions.
 They believe that absence of evidence implies evidence of absence and embrace [Bayesianism](https://www.lesswrong.com/posts/AN2cBr6xKWCB8dRQG/what-is-bayesianism).

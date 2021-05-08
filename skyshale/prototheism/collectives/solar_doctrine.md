@@ -1,3 +1,7 @@
+---
+header: The Solar Doctrine
+---
+
 [todo]
 Perhaps we have a quote at the top of the (mainly stub) article from an anonymous CDF shitposter who says this is why nobody will take Prototheism seriously, ponies.
 [/todo]

@@ -1,3 +1,6 @@
+---
+header: Vanilla Corporation
+---
 Vanilla Corporation is a Prototheist collective founded by Tsukitei Endo.
 It is the older and largest Prototheist collective by total membership.
 Vanilla takes its namesake as the 'reference' implementation of Prototheism and the first post-sectarian collective.

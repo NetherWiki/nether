@@ -1,3 +1,7 @@
+---
+header: Research
+---
+
 Prototheist teks (short for techniques) are protocols for entering and navigating altered states of conciousness.
 Teks can be thought of as specialized forms of meditation, frequently combined with [psychoactive catalysts](catalyst.md).
 Many tkes are based upon [Skyshale's research](frame_theory.md) and are now developed by the community.

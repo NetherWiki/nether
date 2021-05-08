@@ -17,7 +17,7 @@ So I hope you enjoy this site.
 There's not a lot on it right now, but I'm currently working on some articles about Skyshale and the history of Prototheism.
 And yes, I'm afraid this yet another Prototheist blog.
 Please feel free to share your constructive feedback, even if it's negative.
-I have a thick skin after all.<sup><strike>No, not really.</strike></sup>
+I have a thick skin after all.
 
 Oh, also we have a [Discord community](https://discord.gg/YHamcAUksB) now! For some reason...
 

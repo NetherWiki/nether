@@ -1,3 +1,7 @@
+---
+header: Zebulon Protocol
+---
+
 The Zebulon Protocol is a Prototheist Tek used for achieving enlightenment.
 It is a hybrid adapation of Mashi-Noting style vipassana meditation and Samatha meditation combined with specific psychoactive compounds and a theoretical framework for measuring one's progression.
 The Zebulon Protocol is the flagship Tek of Lambda and Prototheism as a whole and is develop through the use of expert committee using scientific rigor.
