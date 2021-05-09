@@ -1,3 +1,4 @@
+<!-- In the rewrite we replace this page with the overview page, kind of like WIkipedia with their feature articles thing, it lists as the sub-articles under sections, like for example, People. -->
 ---
 header: Skyshale
 ---

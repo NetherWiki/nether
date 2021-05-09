@@ -90,6 +90,7 @@ She's CEO because she's smart and ruthless.
 She takes no income.
 
 Perhaps there is some bad blood between her and Kenrick partially because she inherited all of Skyshale's property by virtue of being her wife, even though Kenrick believes Skyshale would have wanted it all to be public domain.
+Perhaps Endo tried to contest Skyshale's final will in court, claiming it was legally void, despite Skyshale urging the pair to work together in her final letter.
 
 # Connections
 ## Dharma Overground
