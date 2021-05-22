@@ -194,16 +194,6 @@ When Azar turned fourteen her Farnaz asked her daughter what she wanted for her 
 Azar told her mother she wanted to "talk about Rahim."
 This led to Farnaz storming out of the house, with Azar celebrating her fourteenth birthday alone.
 Deciding to investigate her brother's death on her own, Azar request Rahim's medical records, posing as her mother on the phone.
-
-
-
-
-
-<!-- Can you actually just request somebody's medical records on the phone? -->
-Azar and her mother never spoke of Mehdi after his death, something Azar resented her mother for.
-For Azar's sixteenth birthday Farnaz asked her daughter what she would like for her birthday, and Azar replied that she wanted "to talk about Rahim".
-This led to Farnaz storming out of the house, leaving Azar to celebrate her birthday alone.
-Azar decided to investigate her brother's death herself, requesting Rahim's medical records by posing as her mother.
 She discovered that her mother, on the advice of the family's psychiatrist, had enrolled her son into a controversial sexual-orientation conversion therapy.
 Azar was livid, storming into her mother's bedroom and accusing her of causing her son's suicide.
 The resulting argument turned into a physical altercation, and Azar would later provide photographs of her bruises as evidence in court.
@@ -345,15 +335,4 @@ Although she appeared to recognize these traits in herself and worked towards re
 <!-- Add some bits here. -->
 
 <!-- Given her own abusive upbringing, she's very critical of the way people treat children, calling spanking normalized child abuse that would get you arrested if you did it to an adult. -->
-<!-- She's also very critical of what she considers to be psychiatric abuse, including overmedication of patients without any sort of CBT involved.
-
-<!-- We mention her views on religion, which might eventually become its own page, or at least her criticisms of Islam. -->
-## Views on intellectual property
-Skyshale was fiercely critical of modern intellectual property laws, claiming that are abused by corporations to prevent competition and stifle the creation of new media, rather than encourage it.
-
-## Vaping industry
-Skyshale often criticized the vaping industry, stating that nicotine was more difficult for her to quit than heroin, criticizing the rise of the Juul but also criticizing making 21 the legal age of smoking when you can enter the military at 18, saying it should be increased to 21.
-
-# Criticism
-## Allegations of scientific racism
-Some criticize Skyshale for what they regard as racist comments regarding her tentative assertion that there are biological factors for intelligence between gender and ethnicity.
+<!-- She's also very critical of what she considers to be psychiatric abuse, including overmedication of patients without any sort of CBT involved. -->
